@@ -1,5 +1,5 @@
 # Workstation Setup 
-This repository contains the commonly used configurations for a DevSecOps engineer
+This repository contains the commonly used configurations for an engineer
 
 ## Setup iTerm2 badge for kubectl current context
 This is useful if you use the kubectl in iTerm2 and would like to see the current context in iTerm2 badge.
